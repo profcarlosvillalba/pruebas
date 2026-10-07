@@ -1,0 +1,19 @@
+PHPUnit 11.5.57 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.6
+Configuration: /workspace/scratch/6d2e3a9b0dee/.build_phpunit_visual/laravel-crud/phpunit.xml
+
+F                                                                   1 / 1 (100%)
+
+Time: 00:00.006, Memory: 12.00 MB
+
+Calculadora (Tests\Unit\Calculadora)
+ ✘ Suma positivos
+   │
+   │ Failed asserting that 6 is identical to 5.
+   │
+   │ /workspace/scratch/6d2e3a9b0dee/.build_phpunit_visual/laravel-crud/tests/Unit/CalculadoraTest.php:19
+   │
+
+FAILURES!
+Tests: 1, Assertions: 1, Failures: 1.

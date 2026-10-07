@@ -1,0 +1,1 @@
+{"version":2,"defects":{"Tests\\Unit\\CalculadoraTest::test_suma_positivos":7,"Tests\\Feature\\ClienteCrudTest::test_rechazar_datos_invalidos":8,"Tests\\Feature\\ClienteCrudTest::test_guardar":8},"times":{"Tests\\Unit\\CalculadoraTest::test_suma_positivos":0.002,"Tests\\Unit\\CalculadoraTest::test_suma_con_un_numero_negativo":0.002}}

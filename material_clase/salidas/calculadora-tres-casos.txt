@@ -1,0 +1,15 @@
+PHPUnit 11.5.57 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.6
+Configuration: /workspace/scratch/6d2e3a9b0dee/.build_phpunit_visual/laravel-crud/phpunit.xml
+
+...                                                                 3 / 3 (100%)
+
+Time: 00:00.003, Memory: 10.00 MB
+
+Calculadora (Tests\Unit\Calculadora)
+ ✔ Suma positivos
+ ✔ Suma con un numero negativo
+ ✔ Suma con cero
+
+OK (3 tests, 3 assertions)

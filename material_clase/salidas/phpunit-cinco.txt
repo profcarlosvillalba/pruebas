@@ -1,0 +1,17 @@
+PHPUnit 11.5.57 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.6
+Configuration: /workspace/scratch/6d2e3a9b0dee/.build_phpunit_intro/laravel-crud/phpunit.xml
+
+.....                                                               5 / 5 (100%)
+
+Time: 00:00.191, Memory: 40.50 MB
+
+Cliente Crud (Tests\Feature\ClienteCrud)
+ ✔ Guardar
+ ✔ Listar
+ ✔ Actualizar
+ ✔ Eliminar
+ ✔ Rechazar datos invalidos
+
+OK (5 tests, 21 assertions)
